@@ -54,7 +54,7 @@ class Dropbox implements CloudStorageProvider {
     }
 }
 
-public class Main {
+public class amazon {
     public static void main(String[] args) {
 
         System.out.println("=== Amazon Cloud Services ===");
@@ -71,3 +71,4 @@ public class Main {
         dropbox.getFile("notes.txt");
     }
 }
+
